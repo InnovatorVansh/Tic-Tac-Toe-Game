@@ -97,12 +97,10 @@ h1 {
     }
 
     .box {
-        height: 18vmin;
-        width: 18vmin;
+        height: 20vmin;
+        width: 20vmin;
     }
     #reset-btn {
         margin-top: -40vmin;
     }
 }
-
-
